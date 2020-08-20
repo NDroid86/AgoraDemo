@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgoraDemo</string>
+    <string name="agora_app_id">c6ab811b002346b9a6246f1813110075</string>
+    <string name="err_join_channe_failed">Join channel failed</string>
+    <string name="stream_url">rtmp://stream.ssh101.com/live/droid86</string>
+    <string name="stream_sharing_url">https://www.ssh101.com/securelive/index.php?id=droid86</string>
+    <string name="permissions_failed">Needs Necessary permissions.</string>
+</resources>
